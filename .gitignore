@@ -1,0 +1,14 @@
+.env
+.env.local
+.env.*.local
+
+*.exe
+*.log
+*.tmp
+*.bak
+*.swp
+
+.vscode/
+
+Thumbs.db
+desktop.ini
